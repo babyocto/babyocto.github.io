@@ -837,7 +837,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #portfolio2 {
-  background: rgba(123,11,151);
+  background: rgba(100,0,0);
   padding: 80px 0;
 }
 
@@ -888,7 +888,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   /*display: block;*/
   /*margin-right: 15px;*/
   /*margin-left: 15px;*/
-}
+#portfolio2}
 
 #portfolio .portfolio-item img {
   position: relative;
